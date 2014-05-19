@@ -1,9 +1,3 @@
-
-/*
- *      Copyright (C) yangnian
- *      Email :  ydyangnian@163.com
- * */
-
 #ifndef TOOL_BPLUSTREE_H
 #define TOOL_BPLUSTREE_H
 

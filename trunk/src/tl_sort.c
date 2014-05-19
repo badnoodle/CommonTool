@@ -1,9 +1,4 @@
 
-/*
- *	  Copyright (C) yangnian
- *	  Email:  ydyangnian@163.com
- * */
-
 #include "tl_sort.h"
 #include "tl_alg.h"
 

@@ -1,7 +1,3 @@
-/*
- *	  Copyright (C) yangnian
- *	  Email:  ydyangnian@163.com
- * */
 
 #include <string.h>
 #include <stdlib.h>

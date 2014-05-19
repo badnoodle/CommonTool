@@ -1,9 +1,4 @@
 
-/*
- *      Copyright (C) yangnian
- *      Email:  ydyangnian@163.com
- * */
-
 #ifndef TOOL_COMMON_H
 #define TOOL_COMMON_H
 

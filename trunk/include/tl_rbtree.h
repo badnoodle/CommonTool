@@ -1,9 +1,4 @@
 
-/*
- *      Copyright (C) yangnian
- *      Email:  ydyangnian@163.com
- * */
-
 #ifndef LIB_RBTREE_H
 #define LIB_RBTREE_H
 
