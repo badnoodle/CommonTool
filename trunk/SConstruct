@@ -1,0 +1,17 @@
+# -*- Mode: python -*-
+
+import os
+import glob
+
+CFLAGS = " -O2 -Wall -Werror -fPIC -I include "
+
+src = glob.glob("src/*.c")
+
+env = Environment(ENV = os.environ, 
+                  MODULE_COMPILE = False,
+                  CC = 'gcc')
+
+env.MergeFlags(CFLAGS)
+
+env.StaticLibrary("libtool.a", src)
+
